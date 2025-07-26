@@ -1,4 +1,4 @@
-# Fullstack Monorepo: Next.js + NestJS
+# Fullstack: Next.js + NestJS
 
 This repository contains both the frontend (Next.js) and backend (NestJS) for the Website Idea Generator project.
 
@@ -75,11 +75,4 @@ cd ../nest-project && pnpm install
 - Full CRUD for website ideas and sections
 - Real Unsplash images, modern HTML/CSS, and live section editing
 
-## Monorepo Tips
 
-- Each project manages its own dependencies and scripts.
-- You can use [pnpm workspaces](https://pnpm.io/workspaces) for advanced monorepo management.
-
-## License
-
-MIT
